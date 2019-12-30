@@ -3,7 +3,7 @@ sudo: false
 
 addons:
   sonarcloud:
-    organization: "sonarcloud"
+    organization: "theodor-lindberg"
     token:
       secure: "YJPO9SJ3Q/4cEKvTO7087gSd7exGeB0ga6jFhdkniNzGnoGbc3bnDpk8AdnWj4xXfGSEO519KfJ8SQVBH/aruxnW+wIKNbT+ucoEpk+vhRlnddldkEq6Erbt2gTcj3wUsdYnDWJ8++Bc8Hl0AVB36Wjr0rr4rBjpiiVyJrX8IFwbEbaH9zB/PB7N6ik74r+7CE9y7M69VY+CKz4meZ4Wu8IVH3DgxSy1dh7cG19b0BXNegemJpEwjMtrNs7zALKm8+oP4K2d1sAI9do1i8GXT0XzqbKdEyGeIqeA+7oJUe0K3TfWGPQY0DIw2F4IptLKiq89Xes10UVpKlKkKGyCjbUF5kG2oUPwMT1wGokyOApJcvIVTxP1VhdbPMEkxriIcdbD+slTwkE7yc8GgRlyE/ixgir2ydKHufLTRmLnX7dn+mL/N9aBEQ8TY3ONpDO66YNwYCFjl9pK1Y721aOMu1vDNgGOyZKrVvn3kXLCSN1FbxBFdhpjO2TMQYmQ9YYtKnHKYA/Ah2D7n8aBZyAPrslZ3VqdarBAnVqejCHM7VvXbbJsBInLLF9/0ZowUOvJgwWaZiPQf6u7XM37mxux6RZncs8bCFZ47npHcna5LqblY+nbIghhDvMN6rQPHnpaFnPlGaJIOZNJy+3lPZt4qcUZybh19eGESFzxYxcwukY="
 
